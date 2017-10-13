@@ -5,10 +5,10 @@ pre, .pre  {
 }
 
 
-pre  code {
+pre code {
   display: block;
   padding: 1.5em 1.5em;
-  white-space: normal;
+  white-space: pre-wrap;
   font-size: .875rem;
   line-height: 2;
 

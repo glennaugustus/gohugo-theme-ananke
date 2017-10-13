@@ -1,4 +1,4 @@
-.facebook, .twitter, .instagram, .youtube {
+.facebook, .twitter, .instagram, .youtube, .rss, .github {
   fill: #BABABA;
 }
 .facebook:hover {
@@ -15,4 +15,12 @@
 
 .youtube:hover {
   fill: #bb0000;
+}
+
+.rss:hover {
+  fill: #0277B5;
+}
+
+.github:hover {
+  fill: #00bb00;
 }
